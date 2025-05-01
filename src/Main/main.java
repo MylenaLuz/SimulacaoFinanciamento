@@ -51,7 +51,6 @@ public class main {
                 totalValorFinanciamento += f.calcularTotalPagamento();
             }
 
-
             // Metodo que salva o arquivo em texto.
 
             System.out.println("Total de todos os imóveis: R$ " + totalValorImovel);
